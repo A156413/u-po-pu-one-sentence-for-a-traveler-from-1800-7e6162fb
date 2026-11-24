@@ -17,7 +17,7 @@ import os
 TEXT = (
     "Picture every library, post office, "
     "and printing press joined by one road, "
-    "where your letter arrives before the ink dries, "
+    "where letters arrive before the ink dries, "
     "any printed book lies open on your table, "
     "and any stranger can answer you."
 )
